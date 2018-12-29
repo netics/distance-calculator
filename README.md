@@ -19,6 +19,13 @@ if shortest_distance:
 
 ```
 
+Output:
+
+```text
+ORADEA -> CLUJ -> TURDA -> ALBA-IULIA -> SIBIU
+Total distance: 335km
+```
+
 ### Loading your own cities ###
 
 Make sure you modify the file ***`cities.csv`*** and submit it as a parameter to the DistanceCalculator class.
